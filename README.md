@@ -16,6 +16,8 @@ Création d'une interface pour suivre ses activités physique :
 - Un Avatar reprenant notre 'Avatar' : https://callstack.github.io/react-native-paper/avatar-image.html
 - Une BottomNavigation permettant de naviguer rapidement dans les différentes sections : https://callstack.github.io/react-nativepaper/avatar-image.html
 
+<img width="153" alt="activity tracker" src="https://user-images.githubusercontent.com/35977024/169543097-17e67be2-2e53-454c-b849-651de8f9fa80.png">
+
 --------
 
 npm install react-native-paper
