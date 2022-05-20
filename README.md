@@ -22,18 +22,17 @@ Création d'une interface pour suivre ses activités physique :
 
 npm install react-native-paper
 
-Modifier fichier babel.config.js comme suit :
-    module.exports = function(api) {
-      api.cache(true);
-      return {
-        presets: ['babel-preset-expo'],
-        env: {
-          production: {
-            plugins: ['react-native-paper/babel'],
-          },
-        },
-      };
-    };
+>     module.exports = function(api) {
+>       api.cache(true);
+>       return {
+>         presets: ['babel-preset-expo'],
+>         env: {
+>           production: {
+>             plugins: ['react-native-paper/babel'],
+>           },
+>         },
+>       };
+>     };
 
 
 ![Screenshot_20220520-154559_Expo Go](https://user-images.githubusercontent.com/35977024/169542329-d4923320-0c3e-46df-bf8e-223e23105d59.jpg)
